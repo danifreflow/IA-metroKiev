@@ -7,7 +7,8 @@ para poder utilizar la ventana gráfica es necesario utilizar el script guiInsta
 >Nota : guiInstall.sh es para linux , no se como funciona para windows
 
 ## Como dar permisos 
-Ambos programas funcionan utilizando **chmod +x** ejecute los siguientes comandos para su posible ejecucion:
+Ambos programas funcionan utilizando **chmod +x** que otorga permisos de ejecucion
+>ejecute los siguientes comandos para transformar los archivos en ejecutables
 
 ```sh
 chmod +x guiInstall.sh
