@@ -1,5 +1,5 @@
 # IA-metroKiev
-practica de inteligencia artificial del metro de Kiev , creado por Daniel Fernández Calvo
+practica de inteligencia artificial del metro de Kiev , **creado por Daniel Fernández Calvo(a180268)**
 
 ## Como funciona
 Es una aplicacion de metro que utiliza el algoritmo A* , para localizar la parada mas proxima posible.
@@ -14,5 +14,10 @@ Ambos programas funcionan utilizando **chmod +x** que otorga permisos de ejecuci
 chmod +x guiInstall.sh
 ```
 
-````sh
+```sh
 chmod +x main.py
+```
+
+## Imagenes del programa
+![MetroSinUsar](https://github.com/danifreflow/IA-metroKiev/blob/main/imagenes/metroSinUsar.png)
+![MetroConUso](https://github.com/danifreflow/IA-metroKiev/blob/main/imagenes/metroConUso.png)
