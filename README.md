@@ -1,6 +1,7 @@
 # IA-metroKiev
 practica de inteligencia artificial del metro de Kiev , **creado por Daniel Fernández Calvo(a180268)**
 
+
 ## Como funciona
 Es una aplicacion de metro que utiliza el algoritmo A* , para localizar la parada mas proxima posible.
 para poder utilizar la ventana gráfica es necesario utilizar el script guiInstall.sh y luego el main.py.
